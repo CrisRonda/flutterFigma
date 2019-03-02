@@ -13,6 +13,10 @@ Algunos recursos para iniciar tu primer proyecto en flutter:
 Si necesitas ayuda aqui su documentacion y algunos tutoriales:
 [online documentation](https://flutter.io/docs)
 
+Proyecto similar en RN
+Pasate a ver el mismo proyecto realizado en React Native!
+- [React Native Figma](https://github.com/CrisRonda/rnFigma)
+
 # Capturas de la aplicación
 Login Page
 
@@ -27,6 +31,4 @@ Exhibition Page
 
 ![alt text](screenshots/Screenshot_20190301-224800.png)
 
-#Proyecto similar en RN
-Pasate a ver el mismo proyecto realizado en React Native!
-- [React Native Figma](https://github.com/CrisRonda/rnFigma)
+
