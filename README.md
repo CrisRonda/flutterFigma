@@ -26,3 +26,7 @@ Home Page
 Exhibition Page
 
 ![alt text](screenshots/Screenshot_20190301-224800.png)
+
+#Proyecto similar en RN
+Pasate a ver el mismo proyecto realizado en React Native!
+- [React Native Figma](https://github.com/CrisRonda/rnFigma)
